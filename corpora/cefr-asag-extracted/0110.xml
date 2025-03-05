@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Dear friend,</answer>
+        <answer>It's a pleasure for me to come to your birthay. I wish it'll be the most  successfull party the world has ever known. I'd like to help to prepare this event. In fact, I can come earlier in the day and I have some ideas which are going to delight you. Do you agree ? Do you remember my birthay ? I invited some rakish singers for the night and I'm still in contact with them I assure you that if you want them to come. They'll sing for you for free.</answer>
+        <answer>See you soon.</answer>
+        <answer>I'm looking forward to hearing about you.</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

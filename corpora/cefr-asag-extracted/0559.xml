@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Last saturday, I went to the Brussels' Book Fair. I board the train at the railwaystation with a travel ticket that cost only 6 euros because I am a senior traveller ( more than 65 years old ) .</answer>
+        <answer>At the fair, there was a lot of people . I had to wait at least 20 minutes before entering the book's realm.</answer>
+        <answer>There were all sorts of books : comics strips, polars, adventures, travels, history, geography, biographies and so on. There were also several authors who were present to dedicate their books.</answer>
+        <answer>I enjoyed very much my afternoon. I have only one regret : there was not a single book in english!</answer>
+    </answers>
+</root>

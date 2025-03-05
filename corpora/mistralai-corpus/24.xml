@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with an A2 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 60 words. You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her. </question>
+    </questions>
+    <answers>
+        <answer>1. &quot;Thank you for inviting me. I'd be delighted to attend your birthday party. I can bring some snacks or help with decorations if you need any assistance.&quot;</answer>
+    </answers>
+</root>

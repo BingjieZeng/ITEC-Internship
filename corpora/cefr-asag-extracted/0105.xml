@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hi, {name}!</answer>
+        <answer>Thank you for this invitation, i m already happy to celebrate your birthday and party all the nigth.</answer>
+        <answer>If you want, i can help you to organize the nigth, i can bring a lot of drink, and i can prepare a chocolate cake. {name}, My best friend is a really good singer, him and his band can going for free.</answer>
+        <answer>See you sunday !</answer>
+    </answers>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello,</answer>
+        <answer>First, thank you for the invatation. I hope that night will be great.</answer>
+        <answer>I have my mother's car so if want some help for the organisation (the delivery for example). I can come with some drink if you want, i make awesome ponches and coktails.</answer>
+        <answer>May I sleep in your garden that night ? I think I could'nt take the car after driking my awesome ponche.</answer>
+        <answer>See you tomorrow</answer>
+        <answer>Don't forget we have big english test this week !</answer>
+        <answer>bye</answer>
+    </answers>
+</root>

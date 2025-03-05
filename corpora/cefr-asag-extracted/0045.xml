@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello {name},</answer>
+        <answer>I would like to thank you for your invitation. I'm pleased you send one to me. I will be there for sure ! I wouldn't miss your 21th birthday. I would be very happy if I could help you in any way ... I can bring desert, or come earlier to help you organize everything. Let me now !</answer>
+        <answer>Can't wait to see you on saturday! It's going to be a party we'll never forget about.</answer>
+        <answer>xx</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

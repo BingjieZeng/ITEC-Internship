@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a C1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 150 words. Do people who live in the public eye have a right to privacy? Explain your point of view. </question>
+    </questions>
+    <answers>
+        <answer>People who live in the public eye, such as celebrities, politicians, and athletes, often have their personal lives scrutinized by the media and the public. While it may seem that they have voluntarily placed themselves in the public eye, it is essential to consider their right to privacy.</answer>
+        <answer>On one hand, these individuals have chosen to pursue careers that involve a high level of public scrutiny. They have signed contracts and agreements that may limit their privacy rights. Additionally, their fame and influence can be used to promote causes and inspire others, making their public persona valuable.</answer>
+        <answer>On the other hand, it is crucial to recognize that everyone has a basic right to privacy, regardless of their profession or public status. Celebrities and public figures are still individuals with personal lives and emotions, and they deserve the same level of privacy as anyone else. Invasions of privacy can lead to emotional distress, damage to their reputation, and even physical harm.</answer>
+        <answer>In conclusion, while people who live in the public eye have chosen to pursue careers that involve a higher level of public scrutiny, they still have a right to privacy. It is essential to strike a balance between the public's right to know and the individual's right to privacy. This can be achieved by implementing regulations that limit the extent to which the media can invade an individual's privacy and by educating the public on the importance of respecting others' privacy rights.</answer>
+    </answers>
+</root>

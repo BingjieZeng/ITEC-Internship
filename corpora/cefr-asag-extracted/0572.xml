@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Hello world,</answer>
+        <answer/>
+        <answer>Yesterday, it was my sister's wedding.</answer>
+        <answer>Actually, she's my little sister and we're just like two best friends. Then, I was so happy for her.</answer>
+        <answer/>
+        <answer>It was a really magic wedding and she looked like a princess with her Disney dress.</answer>
+        <answer/>
+        <answer>At the afternoon, we ate a wedding meal during four hours with my family, her husband's family and our friends.</answer>
+        <answer/>
+        <answer>After that, the night party in a castle was started!</answer>
+        <answer/>
+        <answer>I really wish you to attend a wedding like that!</answer>
+        <answer/>
+        <answer>Xoxo,</answer>
+        <answer>{initial}{initial}</answer>
+    </answers>
+</root>

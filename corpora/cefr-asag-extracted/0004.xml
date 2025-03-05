@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>Describe your hobbies.</question>
+    </questions>
+    <answers>
+        <answer>Hi my name is {name},</answer>
+        <answer>today i want to speak with you about my hobbies. When i was young, i played piano - guitar. Now i don't have much time for hobbies. I study everday and everytime. No time for distraction ! If i have a short time, i prefere to go out with my friends. Louvain-La-Neuve is a good place for culture and distraction if you want.</answer>
+    </answers>
+</root>

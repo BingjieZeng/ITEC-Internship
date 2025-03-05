@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a C1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 150 words. Do people who live in the public eye have a right to privacy? Explain your point of view. </question>
+    </questions>
+    <answers>
+        <answer>People who live in the public eye, such as celebrities, politicians, and public figures, often have limited privacy due to their high-profile status. While it may be argued that their fame and influence warrant public scrutiny, it is essential to consider their right to privacy as individuals.</answer>
+        <answer>Privacy is a fundamental human right, enshrined in the Universal Declaration of Human Rights. It allows individuals to maintain control over their personal information and decisions, promoting dignity, autonomy, and personal development. By constantly being under the public eye, public figures may face invasions of their privacy, causing emotional distress, reputational damage, and even physical harm.</answer>
+        <answer>However, it is important to note that public figures voluntarily enter the public sphere and should be prepared for the level of scrutiny that comes with it. They have a responsibility to act ethically and transparently to maintain public trust. The public has a right to know about their actions, especially if they hold positions of power or influence.</answer>
+        <answer>Therefore, a balance must be struck between the public's right to know and the individual's right to privacy. Public figures should be held accountable for their actions, but their privacy should be respected to the extent that it does not compromise public interest or national security.</answer>
+        <answer>In conclusion, while people who live in the public eye may have limited privacy due to their status, they still have a right to privacy as individuals. A balance should be maintained between the public's right to know and the individual's right to privacy, promoting accountability and respect for personal boundaries.</answer>
+    </answers>
+</root>

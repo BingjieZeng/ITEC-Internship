@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a C1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 150 words. What is the impact of social networks on relationships? </question>
+    </questions>
+    <answers>
+        <answer>Social networks have significantly transformed the way people interact and maintain relationships in the contemporary world. On the one hand, social media platforms have made it easier for individuals to connect with each other across geographical boundaries, fostering global communication and fostering interpersonal relationships. For example, social networks allow people to reconnect with old friends, meet new acquaintances, and even form romantic relationships. Additionally, social media can provide a sense of belonging and support, particularly for those who may feel isolated or marginalized in their everyday lives.</answer>
+        <answer>On the other hand, social networks can also have negative impacts on relationships. The constant bombardment of information and images can lead to feelings of anxiety, envy, and inadequacy, particularly among young people. Social media can also perpetuate cyberbullying and harassment, causing emotional harm to individuals and damaging relationships. Furthermore, social media can lead to a lack of face-to-face interaction, resulting in a decrease in empathy and emotional intelligence.</answer>
+        <answer>In conclusion, while social networks have many benefits, such as enabling global communication and fostering relationships, they also pose significant risks, such as promoting cyberbullying and causing emotional harm. It is essential for individuals to use social media responsibly and to prioritize face-to-face interactions to maintain healthy and fulfilling relationships.</answer>
+    </answers>
+</root>

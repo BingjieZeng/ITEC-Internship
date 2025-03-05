@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>Describe your family.</question>
+    </questions>
+    <answers>
+        <answer>We are three at home.  My daughter have 15 years, she is called {name}.  My husband work as employee.  We live in the country.  I'm work at Brussels in the public sector and I take the train for at working.</answer>
+    </answers>
+</root>

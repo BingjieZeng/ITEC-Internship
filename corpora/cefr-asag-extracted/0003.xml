@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>Describe your family.</question>
+    </questions>
+    <answers>
+        <answer>My name is {name}</answer>
+        <answer>I have 22 year.</answer>
+        <answer>My mother is {name} and she has 46 year</answer>
+        <answer>My father is {name} and he has 53 year</answer>
+        <answer>My father works with politie and my mother wroking not.</answer>
+        <answer>I have 5 brothers and I have not sister.</answer>
+        <answer>I have a big brother and anothers they little.</answer>
+    </answers>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Thank you for your invitation.</answer>
+        <answer>I will bring some food and drinks. If you don't have any ideas for your party, I can give you some : maybe you could bring us to the cinema or to the attraction park, and we could maybe stay the whole night. I heard X was gonna bring some junk food and beers. That would be great for the night. Call me back to tell me what you think about this.</answer>
+    </answers>
+</root>

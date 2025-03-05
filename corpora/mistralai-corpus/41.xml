@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. You attended an event. Write an article for your blog. </question>
+    </questions>
+    <answers>
+        <answer>250 words.</answer>
+        <answer>Title: A Memorable Music Festival Experience</answer>
+        <answer>Last weekend, I had the pleasure of attending the annual music festival in our city. It was a fantastic event, filled with amazing music, delicious food, and a vibrant atmosphere.</answer>
+        <answer>The highlight of the festival was undoubtedly the headlining performance by the internationally acclaimed band, &quot;The Flying Colors.&quot; Their energetic performance left the crowd in awe, and I was no exception. Their unique blend of rock, pop, and classical music created an unforgettable experience.</answer>
+        <answer>In addition to the music, the food stalls offered a variety of dishes from around the world. I tried some exotic dishes like falafel and shawarma, which were absolutely delicious. The festival also had several art installations, which added to the overall aesthetic experience.</answer>
+        <answer>Overall, the music festival was an incredible experience that I will remember for a long time. I am already looking forward to next year's event. If you missed this year's festival, I highly recommend attending next time. Trust me, you won't be disappointed!</answer>
+    </answers>
+</root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with an A1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 30 words. Describe your hobbies. </question>
+    </questions>
+    <answers>
+        <answer>My hobbies include reading books, playing basketball, and listening to music. I also enjoy drawing and cooking in my free time. I find these activities help me relax and unwind.</answer>
+    </answers>
+</root>

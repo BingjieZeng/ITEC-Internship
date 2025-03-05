@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello, I recieved your invitation.</answer>
+        <answer>I'm very happy to be guest and than I would like  to help you. If you want, I can come earlier to organise the party. I can help you to prepare the cocktails, the cake , the place.</answer>
+        <answer>If you must to do shopping , send to me the list and I will go.</answer>
+        <answer>Don't hesitate if you need help.</answer>
+        <answer>Bye</answer>
+        <answer>{name}.</answer>
+    </answers>
+</root>

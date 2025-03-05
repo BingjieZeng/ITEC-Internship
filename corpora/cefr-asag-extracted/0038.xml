@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Dear {name},</answer>
+        <answer>Thanks for your invitation, it is very kind. I will come with pleisure!</answer>
+        <answer>But how can I help you?</answer>
+        <answer>I can bring some food and I also come early to install everything with you. My father have good taste for music and he can put some songs on a USB key if you want.</answer>
+        <answer>Have a good day and I am sure your birhtday will be the best!</answer>
+        <answer>XOXO</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

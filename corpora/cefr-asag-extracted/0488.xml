@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Good morning {name},</answer>
+        <answer>Thank you for your invitation card  !</answer>
+        <answer>I 'm available the 8 April for your birthday !</answer>
+        <answer>Do you think reserve a restaurant or do you cook the meal ? If you want, I can cook a delicious chocolate cake with cream, and help you to prepare the meal.</answer>
+        <answer>My brother has got a sono and a karaoké to animate the party. I'll install the equipment before the evening's begening.</answer>
+        <answer>An other question : what kind of clothing do we wear ? I have found a beautiful dress in a store. But perhaps we must wear a disguise ?</answer>
+        <answer>I expect your mail to organize me.</answer>
+        <answer>See you soon !</answer>
+    </answers>
+</root>

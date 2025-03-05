@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>Imagine your life in 10 years time. What will it look like?</question>
+    </questions>
+    <answers>
+        <answer>It is me, just ten years later. I have thirty-two years. I live in Belgium with my first love, {name}, and our dog. We live in a little house with a garden and for that we have a bank loan. We do not have much money but we have an interesting job. I am a drama actor and {name} is a game designer. I love my life but I think that something is missing...</answer>
+        <answer>Perhaps, a lovely baby.</answer>
+    </answers>
+</root>

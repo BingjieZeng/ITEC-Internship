@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. You attended an event. Write an article for your blog. </question>
+    </questions>
+    <answers>
+        <answer>Title: A Memorable Event to Remember</answer>
+        <answer>Greetings, fellow learners!</answer>
+        <answer>Recently, I had the pleasure of attending an enchanting event that left a lasting impression on me. The atmosphere was electric, with people from all walks of life coming together to celebrate creativity and culture.</answer>
+        <answer>From captivating performances to thought-provoking discussions, the event was a feast for the senses. I had the opportunity to learn about various art forms, try new foods, and even make new friends.</answer>
+        <answer>One performance that particularly stood out was a traditional dance from a distant land, its grace and energy capturing the hearts of everyone present. The event served as a reminder that we are all connected through our shared humanity, and that there is always something new to learn and appreciate.</answer>
+        <answer>I am already looking forward to the next event, and I encourage all of you to join me in exploring the wonders of our diverse world.</answer>
+        <answer>Until next time, keep learning and growing!</answer>
+        <answer>Yours sincerely,</answer>
+        <answer>[Your name]</answer>
+    </answers>
+</root>

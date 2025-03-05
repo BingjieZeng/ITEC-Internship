@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. You attended an event. Write an article for your blog. </question>
+    </questions>
+    <answers>
+        <answer>15th August - Independence Day</answer>
+        <answer>Today marks the 70th anniversary of India's independence. I was lucky enough to attend the Independence Day celebrations at the Red Fort in Delhi. The atmosphere was electric as the sun rose over the historic monument. The Prime Minister delivered a heartfelt speech, reminding us of the struggles our ancestors faced and the progress we have made as a nation. The highlight of the day was the impressive parade, showcasing the strength and diversity of our country. It was an incredible experience and a day I will never forget. Jai Hind!</answer>
+    </answers>
+</root>

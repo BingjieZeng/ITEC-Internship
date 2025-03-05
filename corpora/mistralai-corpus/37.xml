@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. If you had 1 million euros; what would you do with it? </question>
+    </questions>
+    <answers>
+        <answer>I would invest a portion of the money in a safe and stable investment option such as mutual funds or stocks. The rest would be allocated towards my education, to cover tuition fees and living expenses. The remaining amount would be used to start a small business and to donate to charities, to help those in need.</answer>
+    </answers>
+</root>

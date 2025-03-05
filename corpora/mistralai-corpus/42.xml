@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. You attended an event. Write an article for your blog. </question>
+    </questions>
+    <answers>
+        <answer>1. Title: A Night to Remember</answer>
+        <answer>2. Introduction: Last week, I had the pleasure of attending the annual charity gala event organised by our school. It was an unforgettable night filled with laughter, music, and a sense of unity.</answer>
+        <answer>3. Body: The event started with a welcome speech by our school principal, followed by a live auction and a charity raffle. The highlight of the night was the live performance by the renowned band, &quot;The Beats&quot;. Their energetic performance had everyone on their feet, dancing and singing along.</answer>
+        <answer>4. Conclusion: The event was a huge success, raising a significant amount for a good cause. I am grateful for the opportunity to have been a part of such a meaningful event. I look forward to attending next year's gala.</answer>
+        <answer>5. Sign-off: Until next time, keep spreading kindness!</answer>
+        <answer>6. Tags: #charitygala #schoolevent #thebeats #kindness</answer>
+    </answers>
+</root>

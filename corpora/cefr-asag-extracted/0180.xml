@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Hi everyone!</answer>
+        <answer>Last week, I was at the concert of my favourite singer, Passenger. We went to Brussels, what a great city. It was awesome! I didn't expect to have so much fun. All my friend were with me, we sang along for almost every song. He is a excellent singer, joyfull and friendly with his public. On the first part of the show, we saw a band who played rock, we danced a lot, it was very funny. The organisation was great, every artist were on time. We didn't have to wait too much. The AB is a great place, I always go there to see concert. I can't wait for the next one.</answer>
+        <answer>Cheers,</answer>
+        <answer>{name}.</answer>
+    </answers>
+</root>

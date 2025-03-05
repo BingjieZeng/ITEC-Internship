@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B2 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 100 words. Should study abroad be a compulsory part of education? Explain your point of view. </question>
+    </questions>
+    <answers>
+        <answer>Study abroad should not be a compulsory part of education. While studying abroad offers valuable cultural experiences, personal growth, and language learning opportunities, it may not be feasible for all students due to financial constraints, family obligations, or personal reasons. Moreover, some students may thrive in a diverse environment, while others may struggle with homesickness or culture shock. Making it compulsory could put unnecessary stress on students and potentially harm their academic performance. Instead, it should remain an optional opportunity for students who wish to broaden their horizons and gain a global perspective.</answer>
+    </answers>
+</root>

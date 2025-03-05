@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a C1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 150 words. Eating a balanced diet is the most important factor for a healthy life. Explain your point of view. </question>
+    </questions>
+    <answers>
+        <answer>A balanced diet is indeed the cornerstone of a healthy life. It provides our bodies with the essential nutrients required for proper functioning, growth, and overall well-being. A balanced diet is not just about eating the right amount of food, but also about consuming a variety of foods from different food groups.</answer>
+        <answer>Firstly, carbohydrates, which are our primary source of energy, should be included in adequate amounts. These can be found in grains, fruits, and vegetables. Secondly, proteins, essential for building and repairing body tissues, should be consumed in sufficient quantities. These can be obtained from sources like lean meats, fish, eggs, legumes, and nuts.</answer>
+        <answer>Furthermore, fats, often misunderstood, are necessary for energy storage, absorption of certain vitamins, and maintaining cell health. However, it's crucial to consume them in moderation, focusing on healthier options like avocados, olive oil, and nuts.</answer>
+        <answer>Lastly, vitamins and minerals, found in fruits, vegetables, and dairy products, play vital roles in various bodily functions. A deficiency in these can lead to health issues.</answer>
+        <answer>In conclusion, a balanced diet is crucial for a healthy life. It not only provides the necessary energy but also ensures the body gets all the essential nutrients it needs to function optimally. Therefore, it's essential to prioritize a balanced diet in our daily lives.</answer>
+    </answers>
+</root>

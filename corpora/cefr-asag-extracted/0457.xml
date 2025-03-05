@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>He {name},  I'am very happy to come home next week-end to celebrate your birthday. I asked to my friend {name}, the photograph to take some pictures during de the party. He is Ok.  {name} take the wonderful pictures.  Can you send him your adress please? Him number phone is {number}.  See you next week. Kiss.</answer>
+    </answers>
+</root>

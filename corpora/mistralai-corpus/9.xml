@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with an A1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 30 words. What are your daily habits? What time do you get up; etc.? </question>
+    </questions>
+    <answers>
+        <answer>1. I wake up at 7:00 am. I brush my teeth and take a shower. Then, I have breakfast at 8:00 am. After that, I go to school. After school, I come back home, have dinner, and study. Before going to bed, I read a book or watch a film. I go to bed at 11:00 pm.</answer>
+    </answers>
+</root>

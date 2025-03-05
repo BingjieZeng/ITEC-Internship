@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Yestrerday I saw the best football match of the last 3 years. It was the quarter final of the European League.</answer>
+        <answer>The two teams were Liverpool and Borussia Dortmund. They played at Anfield, the Liverpool's stadium.</answer>
+        <answer>Before the match the supporters of the two teams sang the &quot;you will never walk alone&quot;, it is a famous song of the Beatles who were born in Liverpool.</answer>
+        <answer>The match was so intence. It was due to the teams that were giving their heart for the match.</answer>
+        <answer>Dortmund was wining the match 0-2 when the first liverpool's goals arrived.</answer>
+        <answer>At the end Liverpool wan the match 4-3 with a last minute goal.</answer>
+    </answers>
+</root>

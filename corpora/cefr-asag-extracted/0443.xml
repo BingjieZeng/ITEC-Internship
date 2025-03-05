@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hi {name},  Thank you a lot for this invitation ! I've never organized any birthday in the past but I imagine you have a lot of things to do before this party. So if you want I can help you for the preparation.   First I'll send to your friends the invitations, I can write them if you want ! Unfortunatly I'll not be able to prepare the dinner . You know I'm not a good cook so I prefer  you ask it to another person. After the meal I'll do the dishes and we could do an animation with the guests. The next day, I'll come back to clean the house with you. It will be a very good birthday !  With best wishes, {name}</answer>
+    </answers>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. You attended an event. Write an article for your blog. </question>
+    </questions>
+    <answers>
+        <answer>Title: A Fascinating Evening at the Science Symposium</answer>
+        <answer>Last week, I had the pleasure of attending the Science Symposium at our local university. The event was a captivating blend of science, technology, and innovation, featuring talks by renowned scientists and researchers.</answer>
+        <answer>The highlight of the evening was a presentation by Dr. Jane Smith, a leading expert in quantum physics. Her talk, titled &quot;The Future of Quantum Computing,&quot; was both enlightening and thought-provoking. She elucidated the potential applications of quantum computing in various fields, from medicine to finance, and left us pondering the implications of this groundbreaking technology.</answer>
+        <answer>Another intriguing session was the panel discussion on artificial intelligence and its ethical implications. The panelists, including a philosopher, a computer scientist, and a legal expert, engaged in a stimulating debate that challenged our perspectives on AI and its role in our society.</answer>
+        <answer>Overall, the Science Symposium was an enriching experience that broadened my understanding of the scientific world. I look forward to attending similar events in the future.</answer>
+        <answer>Best regards,</answer>
+        <answer>[Your Name]</answer>
+    </answers>
+</root>

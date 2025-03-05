@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Hello,</answer>
+        <answer>I'm {name} and yesterday I went to an amazing concert.</answer>
+        <answer>In fact I went to the concert of MUSE.  It was wonderfull, a lot of people were present to see that musical group.</answer>
+        <answer>Well, at the beginning, I did not know how long it would last because I was thinking about going out in Louvain-La-Neuve after the representation.  So I hoped it would finish at 23.00 or 00.00.  But the longer it last, the lesser I wanted to go out.  It was so nice that I forgot about my party and let it totally fall.</answer>
+        <answer>After the concert, me and my brother tried to get some autograph on my brother's guitar but the guitarist of MUSE was already away, pity!  So we only took one or two beers and tried to find out my father.</answer>
+        <answer>He brought me back to LLN at 00.30 and then I came next my friends and enjoyed the rest of the party all night long..</answer>
+    </answers>
+</root>

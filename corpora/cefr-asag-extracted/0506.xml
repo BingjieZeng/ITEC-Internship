@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello, {name}</answer>
+        <answer>I thank you for your invitation, I am happy to come at your birthday.</answer>
+        <answer>Can I help you for the organisation?</answer>
+        <answer>I can prepare a cake or a lot of végétables for apéro with sauce, and chees, ... I can help you for the décoration so. And I have a really good vine red or white who come directly from France.</answer>
+        <answer>Happy to see you and help you for this feest.</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

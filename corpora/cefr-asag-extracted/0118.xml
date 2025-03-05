@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hi dude,</answer>
+        <answer>At first, I would like to thank you for inviting me ! It's such a pleasure for me to participate at your 40 years birthday.</answer>
+        <answer>I would like to help you for the organization of this little party, and so, I can bring two barrels of 50 liters of beer. As you nmight know it, I work as a technician in a famous Belgian brewery and it's easy for me to bring you beer.</answer>
+        <answer>Also, I can come earlier to help you prepare everything you need for the party.</answer>
+        <answer>Finally, if you really need it, I can print the invitation's papers with the printer of the work.</answer>
+        <answer>See you soon homie,</answer>
+        <answer>your very best friend {name}</answer>
+    </answers>
+</root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 80 words. What is the best book you've ever read and why? </question>
+    </questions>
+    <answers>
+        <answer>The best book I've ever read is &quot;To Kill a Mockingbird&quot; by Harper Lee. This book is set in the 1930s in a small town in Alabama and tells the story of a young girl named Scout Finch. The book explores themes of racial injustice, moral growth, and the loss of innocence. The book is written in a simple yet eloquent style that makes it easy to understand while still packing a powerful emotional punch. It is a must-read for anyone who wants to gain a deeper understanding of the human experience.</answer>
+    </answers>
+</root>

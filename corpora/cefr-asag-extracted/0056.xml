@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Thank you very much for you invitation {name}.</answer>
+        <answer>I have many ideas for organize your perfect friend's birthday.</answer>
+        <answer>First, i'll bring many soft and beers ( Coca-cola, Sprite,.. ). In the second times, I'll call a dj for animation. i have a friend who love doing music for evenement and he 'll be very happy to play his music at your birthday.</answer>
+        <answer>For the meals, I think everybody loves hamburgers. It's so healthy ( hum hum) and ti's easy to make.</answer>
+        <answer>For the conclusion, be cool and enjoy your party.</answer>
+    </answers>
+</root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hi Dear {name} !</answer>
+        <answer>Happy belated birthday !</answer>
+        <answer>I saw your message in my inbox, thank you for invited me to your birthday party Of course i will come !</answer>
+        <answer>Don't forget to send me the adress.</answer>
+        <answer>Don't hesitate to tell me if you need some help or if I need to bring something (drink, snack..):)</answer>
+        <answer>See you soon</answer>
+        <answer>p.s. I don't know what kind of gift I can bring you so let me know if you have something in your head... I saw a new iPhone in store, do you like it? :D</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

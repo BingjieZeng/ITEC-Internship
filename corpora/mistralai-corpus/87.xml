@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a C2 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 150 words. Do people who live in the public eye have a right to privacy? Explain your point of view. </question>
+    </questions>
+    <answers>
+        <answer>People who live in the public eye, such as celebrities, politicians, and public figures, have a right to privacy, but it is subject to certain limitations. On one hand, they have voluntarily placed themselves in the public eye and have agreed, at least to some extent, to surrender their privacy for the sake of their careers and public service. However, this does not mean that they have waived all their rights to privacy.</answer>
+        <answer>The public's fascination with the personal lives of celebrities and public figures can sometimes cross the line from mere curiosity to invasive behavior. It is important to respect the boundaries of an individual's privacy, even if they are a public figure. For example, publishing personal photographs without consent, hacking into personal accounts, or stalking can be seen as a violation of that individual's privacy rights.</answer>
+        <answer>On the other hand, public figures have a responsibility to be accountable for their actions and to set an example for the public. If they engage in behavior that is harmful or unethical, it is important for the public to be aware of this. In this sense, there is a balance to be struck between the right to privacy and the public's right to know.</answer>
+        <answer>In conclusion, while people who live in the public eye have a right to privacy, this right is not absolute. They must balance their privacy with their responsibility to be accountable for their actions and to set a positive example for the public. It is important for the media and the public to respect this balance and to refrain from invasive behavior.</answer>
+    </answers>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>What advice would you give to help improve the environment?</question>
+    </questions>
+    <answers>
+        <answer>Over the last few years, there has been growing concern about environmental issues. The challenges we are now facing offer unprecedented opportunities to move towards sustainable development.</answer>
+        <answer/>
+        <answer>The easiest way to lower our ecological footprint is the selective sorting of waste. This doesn't take more time than using a general dustbin while it permits a more optimal recycling.</answer>
+        <answer/>
+        <answer>On the other hand, as students in Belgium, we have access to intensive public transportation. Moreover, this user-friendly environment is cheaper than using your own car and contributes to global CO2 reduction. For those who do not need to travel on large distances, it is even better to use the bicylce or go by walk.</answer>
+        <answer/>
+        <answer>There are many options to try promoting respectful development and take care of our planet in order to preserve it for the next generations.</answer>
+    </answers>
+</root>

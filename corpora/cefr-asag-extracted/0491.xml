@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Dear X,</answer>
+        <answer>You're so kind to invite me to your birthday party.</answer>
+        <answer>It's a pleasure for me to response &quot;present&quot; in this ciconstance. Do you know that I'm the queen of the smoothies ? If you wish I can prépare a large choice of  glasses with delicious fruits. I can also be the Bob of the party. As you know, I never drink alcohol and my car can take four people.</answer>
+        <answer>You could answer to me by mail. It will be easier.</answer>
+        <answer>Best regards</answer>
+    </answers>
+</root>

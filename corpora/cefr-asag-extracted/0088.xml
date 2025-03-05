@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello {name},</answer>
+        <answer>Yesterday, I received your birthday invitation and I was so surprised cause I wasn't expecting that. And it's a blessure for me because we know each other since we are 5 years. Now you're turning 21 and it's an age very important in your life!</answer>
+        <answer>As you know turning 21 is such a big thing. I'm suppose that you want to do something spectacular. And I know that it demands a lot of organization and work. So I would like to ask you if you wanted any help, like mine.</answer>
+        <answer>How could I help you? Ohhh you know me, I like to organise birthay and stuff like that. I could search for a big house where you could invite all your friends. I could make the invitation and send them to your friends and your family as well. I would like to help in the decoration, the food and searching a dj.</answer>
+        <answer>It would be such a pleasure for me to organize your birthday. Hope you would appreciate my help.</answer>
+    </answers>
+</root>

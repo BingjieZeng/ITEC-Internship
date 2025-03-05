@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with a B2 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 100 words. What advice would you give to help improve the environment? </question>
+    </questions>
+    <answers>
+        <answer>I would advise several steps to improve the environment. Firstly, reducing, reusing, and recycling waste is crucial. We can reduce waste by choosing products with less packaging, reusing items where possible, and recycling materials properly. Secondly, we should plant more trees to absorb carbon dioxide and produce oxygen. Thirdly, using public transportation, biking, or walking instead of driving can significantly decrease carbon emissions. Lastly, educating others about the importance of environmental conservation can help create a broader impact. By adopting these habits, we can contribute to a cleaner and greener planet.</answer>
+    </answers>
+</root>

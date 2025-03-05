@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Great event, when sport met charity!</answer>
+        <answer>Twoo weeks ago I participated to a marathon finswimming.</answer>
+        <answer>Into 12 hours we had to make a maximum of lenght of the swimming pool.</answer>
+        <answer>Each participant had to run 4 lenght at least. With our team we succeed to swam more than 43 km.</answer>
+        <answer>For each kilometer we had swam adapted diving received Euros.</answer>
+        <answer>So thanks our efforts we helped an association.</answer>
+        <answer>What's adapted diving?</answer>
+        <answer>It's diving for people with disabilities. We have now in Belgium a blind who is making apnea.</answer>
+    </answers>
+</root>

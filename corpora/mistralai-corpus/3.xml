@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with an A1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 30 words. Describe your family.</question>
+    </questions>
+    <answers>
+        <answer>My family consists of four members. My parents and I live in London. My younger brother also lives with us. We all enjoy spending time together.</answer>
+    </answers>
+</root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello {name}!!</answer>
+        <answer>I wanted to thank you for the invitation to your birthday.</answer>
+        <answer>The last time I saw you, two years ago, you was only forteen. That will be a shock but I'm happy to see you again!! I hope that I'll see you more often then. Wath do you want like present? And wath's your adress?</answer>
+        <answer>thank you verry verry much. I hope also that your familly is fine. I miss Also your brother, {name}. The holidays we passed together were unforgettable. Oh, do you remember that we red the same book? There's a 4th epiode now!! I'll give you this book. It wasq very cool bt there's a lot of changes.</answer>
+        <answer>Kisses,</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

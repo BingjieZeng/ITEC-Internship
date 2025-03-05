@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You attended an event. Write an article for your blog.</question>
+    </questions>
+    <answers>
+        <answer>Yesterday, I was in an event at New-York. It was an event of the makeup with Mac Cosmetics. It was very interrested because I love makeup. We have tested the new collection for the summer.</answer>
+        <answer>The color of the makeup is very pretty, it is light. It was the first time that I go at an event like this. Most of people in this event are girls who do video in Youtube.</answer>
+        <answer>During the event, I meet a girl. It is {name}. She comes from Canada and she does videos.</answer>
+    </answers>
+</root>

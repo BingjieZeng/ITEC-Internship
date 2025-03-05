@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>Describe your family.</question>
+    </questions>
+    <answers>
+        <answer>We are two persons living in the same home. I am married whith {name}, he is fifty seven years old. My name is {name} and I am sixty one years old. We are married since 1978. We have no childrens, but we have many members of our family around us.</answer>
+    </answers>
+</root>

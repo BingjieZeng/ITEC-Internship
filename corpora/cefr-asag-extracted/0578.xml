@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>If you had 1 million euros, what would you do with it?</question>
+    </questions>
+    <answers>
+        <answer>That's a very good question !</answer>
+        <answer>First I would  give some money for my family my son and my sisters.</answer>
+        <answer>I would buy a nice house and a nice car.</answer>
+        <answer>And then I would look around me or I just do some good.</answer>
+        <answer>May be I built a building to do a good apartment that I rent after.</answer>
+        <answer>But I don't know exactly, because there would be so many good things I could do.</answer>
+        <answer>And also I woud visit many countries</answer>
+        <answer>Sincerely yours</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>

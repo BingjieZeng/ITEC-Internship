@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>If you want, I can help you to prepare your birthday.</answer>
+        <answer>I can buy vodka and lemons and make coktails whith that. I can help you to make dinner and prepare all sorts of meals:pasta, pizza, fish and chips, and chocolate desert or apple pie.</answer>
+        <answer>I can help you for washing up and I can do the housework after the party.</answer>
+    </answers>
+</root>

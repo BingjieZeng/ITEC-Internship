@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hi {name}! I'm so excited to see you tomorrow. I thought to bring you a hand during the evening in view of the number of guests. If you want, I can take drinks and appetizers. Then I will reserved you a little surprise that you will never forget! It promise to be very funny... Who bring the cake? And have you got a dj or anything else to animate the party? Like me informed.. Kiss baby!</answer>
+    </answers>
+</root>

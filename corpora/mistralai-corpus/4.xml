@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are a student with an A1 proficiency in English. Your class teacher will ask you a question. You should answer this question with the minimum of 30 words. Describe your family.</question>
+    </questions>
+    <answers>
+        <answer>I have a large family with four siblings, including me. My parents are hardworking and supportive. My elder sister is a doctor and my elder brother is an engineer. I have two younger sisters, who are studying in school. We enjoy spending time together.</answer>
+    </answers>
+</root>

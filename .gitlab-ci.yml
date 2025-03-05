@@ -1,0 +1,19 @@
+# This is an example of a job that will  be run on a GitLab runner
+# For this project, a GitLab runner is enabled with access to an Nvidia RTX 3090 GPU.
+gpu-job:
+  # This is a Docker container in which the code will be run:
+  # Nvidia CUDA 12.2
+  # Miniconda3 distribution with python version 3.9.18
+  # PIP packages: torch transformers datasets evaluate chardet accelerate scikit-learn pandas
+  image: internship_bingjie
+  stage: build
+  tags:
+    # run this job on the kor-d-s23041977 machine
+    - kor-d-s23041977
+  script:
+    # make sure GPU is available and will be used
+    - python -c "import torch; print(torch.cuda.is_available())"
+    - python src/generation/mistralai.py  # <-- specify the generation script
+  artifacts:
+    paths:
+    - corpora/mistralai-corpus/*.xml # <-- in your script, this is the path where you save the results

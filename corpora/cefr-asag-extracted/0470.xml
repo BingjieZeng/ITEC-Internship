@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Dear {name},  I'm happy to receive your invitation. Yes of course it's a pleasure to help you for organize your birthday. First time we could to drink a glass and listening a music. After that we could to go listen a movie. and second time, we could to go eat a restaurant  and finish in the dancing.   What do you think about that see you later my friend's</answer>
+    </answers>
+</root>

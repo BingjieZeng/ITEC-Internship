@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+    <questions>
+        <question>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</question>
+    </questions>
+    <answers>
+        <answer>Hello dear friend, with pleasure I'll accept your invitation.</answer>
+        <answer>If you agree, we make the preparations together or I offer my help for this great day.</answer>
+        <answer>I can go shopping and look after differents drinks, or I can go to the meatman.</answer>
+        <answer>Do you need a cook? In private, that's me,...if you want.</answer>
+        <answer>So, If you accept, please call me and we can start.</answer>
+        <answer>Kind regards</answer>
+        <answer>{name}</answer>
+    </answers>
+</root>
