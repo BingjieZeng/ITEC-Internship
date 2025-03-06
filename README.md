@@ -1,4 +1,4 @@
-This repository contains the data and source code for Bingjie Zeng's internship.
+This repository contains the data and source code for Bingjie Zeng's internship at the ITEC Research Institute.
 
 - `corpora`: this directory contains the corpora used and created during the internship
     - `corpora/{corpus_name}`: each subdirectory contains a specific corpus
